@@ -1,2 +1,2 @@
 My First Git repository
-This repository will be my training on git
+This repository will be my awesome training on git
